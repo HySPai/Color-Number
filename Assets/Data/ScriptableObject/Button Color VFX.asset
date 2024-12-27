@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185b19aa46e1cb24487e9e478c04400f, type: 3}
+  m_Name: Button Color VFX
+  m_EditorClassIdentifier: 
+  colorNormal: {fileID: 1998379763863090506, guid: 074b930ebbe468841a530885484ff1ba, type: 3}
+  colorFreeze: {fileID: 1998379763863090506, guid: edfdb13792d8eb94c99e82fc455966d9, type: 3}
+  colorMoveEffect: {fileID: 7694476300618935745, guid: 1037eac8e744f3c45945b37ba946a6b8, type: 3}
