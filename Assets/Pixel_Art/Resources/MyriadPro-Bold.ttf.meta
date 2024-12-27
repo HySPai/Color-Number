@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 43b00609166c4c47b42106408b2ccf79
+timeCreated: 1500889673
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'MyriadPro-Bold'
+  fontNames:
+  - SF UI Display
+  - Myriad Pro
+  fallbackFontReferences:
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

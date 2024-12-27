@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4b3631018f5f409c90dfa21e94123f69
+timeCreated: 1500889673
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'MyriadPro-Regular-dynamic'
+  fontNames:
+  - SF UI Display
+  - Myriad Pro
+  fallbackFontReferences:
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718810063125",
+    "firebase_url": "https://pixeldot-colorbynumber.firebaseio.com",
+    "project_id": "pixeldot-colorbynumber",
+    "storage_bucket": "pixeldot-colorbynumber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718810063125:android:58420136b4f5221a",
+        "android_client_info": {
+          "package_name": "com.ino.games.pixeldot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718810063125-eh2tkda0r0fc6ff2mbbc4qrfakd7tnc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ino.games.pixeldot",
+            "certificate_hash": "a12f81c675a510caf34dc10fc18e3b09da7a2c1f"
+          }
+        },
+        {
+          "client_id": "718810063125-507s1freclfgv3tkc6f54ircbj55gr3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9quhnEJz_ntrtit6RWw-HK4t5L6arOos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718810063125-507s1freclfgv3tkc6f54ircbj55gr3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
